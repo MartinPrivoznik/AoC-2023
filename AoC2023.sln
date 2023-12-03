@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day2-2", "day2-2\day2-2.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day3-1", "day3-1\day3-1.csproj", "{206F9859-AC32-4643-B362-C64B8E389730}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3-2", "day3-2\Day3-2.csproj", "{FCBC24E8-1BB9-4F9A-A297-113F597CE869}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day3-2", "day3-2\day3-2.csproj", "{FCBC24E8-1BB9-4F9A-A297-113F597CE869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
