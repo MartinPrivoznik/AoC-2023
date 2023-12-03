@@ -27,7 +27,7 @@ while ((line = await streamReader.ReadLineAsync()) != null)
     sum += Int32.Parse($"{pair.First}{pair.Last}");
 }
 
-//stopwatch.Stop();
+stopwatch.Stop();
 
 Console.WriteLine($"Sum: {sum}");
 Console.WriteLine($"Time: {stopwatch.ElapsedMilliseconds} MS");
